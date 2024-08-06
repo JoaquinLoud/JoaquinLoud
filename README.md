@@ -1,6 +1,6 @@
 ## ¡Hola, soy Joaquín López! 👋
 
-Bienvenido a mi mundo digital, donde la pasión por la tecnología y el desarrollo de software me guía en mi viaje. Soy un estudiante de Ingeniería de Sistemas en su último semestre, y mi curiosidad no conoce límites.
+
 ### Algunas de mis habilidades incluyen:
 
 - **Desarrollo Web**: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="20" height="25">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="20" height="25"> <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" width="35" height="25"> 
